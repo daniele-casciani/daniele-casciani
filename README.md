@@ -68,7 +68,7 @@ observable, and boring enough to run in production.
 
 <img src="https://streak-stats.demolab.com?user=daniele-casciani&theme=transparent&hide_border=true&border_radius=8&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" alt="streak" width="98%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniele-casciani&bg_color=00000000&color=2ea043&line=1f6feb&point=2ea043&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" width="98%"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="98%"/>
 
 <img src="https://raw.githubusercontent.com/daniele-casciani/daniele-casciani/output/snake.svg" alt="snake eating my contributions" width="98%"/>
 
