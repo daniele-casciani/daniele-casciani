@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.gitskins.com/api/section/hero?username=daniele-casciani&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52008420%3Fv%3D4&v=showcase-hero-1" alt="Daniele Casciani hero visual" />
+<img src="./assets/hero.svg" alt="Daniele Casciani" />
 </p>
 
 <p align="center">
