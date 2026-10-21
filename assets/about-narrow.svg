@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="380" viewBox="0 0 440 380" role="img" aria-label="About Daniele Casciani">
+  <defs>
+    <linearGradient id="dc-about-n-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    
+    <radialGradient id="dc-about-n-orb-0" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#58a6ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="dc-about-n-orb-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#39d353" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="dc-about-n-orb-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#a371f7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="dc-about-n-orb-3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="dc-about-n-orb-4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#3b82f6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="dc-about-n-orb-5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7ee787" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#7ee787" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#7ee787" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="dc-about-n-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e6edf3" stop-opacity="0.2"/>
+      <stop offset="44%" stop-color="#58a6ff" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#8b949e" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="dc-about-n-holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6edf3"/>
+      <stop offset="18%" stop-color="#0d1117"/>
+      <stop offset="38%" stop-color="#58a6ff"/>
+      <stop offset="58%" stop-color="#8b949e"/>
+      <stop offset="78%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#e6edf3"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style>
+    #dc-about-n .aura-orb-a { animation: dc-about-n-float-a 9s ease-in-out infinite; }
+    #dc-about-n .aura-orb-b { animation: dc-about-n-float-b 11s ease-in-out infinite 1.1s; }
+    #dc-about-n .aura-orb-c { animation: dc-about-n-float-c 13s ease-in-out infinite 0.6s; }
+    #dc-about-n .aura-ring { animation: dc-about-n-ring 8s ease-in-out infinite; }
+    #dc-about-n .aura-ring-b { animation: dc-about-n-ring 10s ease-in-out infinite 1.6s; }
+    #dc-about-n .aura-chip { animation: dc-about-n-chip 650ms ease-out both; }
+    #dc-about-n .aura-cursor { animation: dc-about-n-cursor 1.1s step-end infinite; }
+    #dc-about-n .aura-bar { animation: dc-about-n-bar 1.15s ease-out both; transform-box: fill-box; transform-origin: left; }
+    #dc-about-n .aura-cell { animation: dc-about-n-cell 520ms ease-out both; }
+    @keyframes dc-about-n-cell { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes dc-about-n-float-a { 0%,100% { transform: translate(0,0); opacity: .58; } 50% { transform: translate(28px,-20px); opacity: .86; } }
+    @keyframes dc-about-n-float-b { 0%,100% { transform: translate(0,0); opacity: .42; } 50% { transform: translate(-24px,18px); opacity: .72; } }
+    @keyframes dc-about-n-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
+    @keyframes dc-about-n-ring { 0%,100% { opacity: .06; } 50% { opacity: .22; } }
+    @keyframes dc-about-n-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes dc-about-n-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes dc-about-n-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <g id="dc-about-n">
+    <rect width="440" height="380" rx="20" fill="url(#dc-about-n-bg)"/>
+    <ellipse class="aura-orb-a" cx="138" cy="36" rx="206" ry="92" fill="url(#dc-about-n-orb-0)"/>
+    <ellipse class="aura-orb-b" cx="334" cy="44" rx="123" ry="84" fill="url(#dc-about-n-orb-1)"/>
+    <ellipse class="aura-orb-c" cx="255" cy="356" rx="158" ry="68" fill="url(#dc-about-n-orb-2)"/>
+    <ellipse class="aura-orb-b" cx="406" cy="336" rx="88" ry="84" fill="url(#dc-about-n-orb-3)"/>
+    <rect x="26" y="24" width="388" height="332" rx="20" fill="rgba(8,8,12,0.5)" stroke="#58a6ff" stroke-opacity="0.5"/>
+    <circle class="aura-ring" cx="362" cy="92" r="15.1" fill="none" stroke="#e6edf3" stroke-opacity="0.36"/>
+    <circle class="aura-ring-b" cx="362" cy="92" r="26.0" fill="none" stroke="#e6edf3" stroke-opacity="0.22"/>
+    <circle class="aura-ring" cx="362" cy="92" r="34.8" fill="none" stroke="#e6edf3" stroke-opacity="0.14"/>
+    <g transform="rotate(-32 362 92)"><circle cx="388.0" cy="92" r="4" fill="#58a6ff">
+      <animate attributeName="r" values="3.4;4.8;3.4" dur="1.6s" repeatCount="indefinite"/></circle></g>
+    <text x="48" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="800" fill="#8b949e" letter-spacing="4">ABOUT</text>
+    <text x="46" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="820" fill="#e6edf3" letter-spacing="-0.4">Full-stack engineer</text>
+    <text x="46" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="820" fill="#58a6ff" letter-spacing="-0.4">@ GenoGra</text>
+    <text x="48" y="152" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="500" fill="#c9d1d9" >Building the software platform behind</text>
+    <text x="48" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="500" fill="#c9d1d9" >GPU-accelerated pangenome graph analysis —</text>
+    <text x="48" y="192" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="500" fill="#c9d1d9" >from the distributed job engine to the</text>
+    <text x="48" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="500" fill="#c9d1d9" >interfaces researchers use.</text>
+    <text x="48" y="242" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="650" fill="#e6edf3" >M.Sc. Computer Science &amp; Engineering</text>
+    <text x="48" y="261" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="650" fill="#e6edf3" >(AI track) @ Politecnico di Milano</text>
+    <text x="48" y="284" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="500" fill="#8b949e" font-style="italic">Thesis: Vessels Detection and Tonnage</text>
+    <text x="48" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="500" fill="#8b949e" font-style="italic">Regression for Marine Surveillance</text>
+    <text x="48" y="334" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="750" fill="#58a6ff" >&gt; boring enough to run in production</text>
+    <text x="292" y="334" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="850" fill="#58a6ff" class="aura-cursor">_</text>
+    <rect x="0.5" y="0.5" width="439" height="379" rx="19.5" fill="none" stroke="#58a6ff" stroke-opacity="0.62"/>
+  </g>
+</svg>
