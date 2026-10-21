@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/hero.svg" alt="Daniele Casciani" />
+<a href="https://www.linkedin.com/in/danielecasciani/"><img src="./assets/hero.svg" alt="Daniele Casciani" /></a>
 </p>
 
 <p align="center">
