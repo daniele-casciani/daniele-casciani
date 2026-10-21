@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img src="./assets/about.svg" alt="About Daniele Casciani" />
+</p>
+
+<p align="center">
 <img src="https://www.gitskins.com/api/section/chess?username=daniele-casciani&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52008420%3Fv%3D4&v=showcase-chess-2" alt="Daniele Casciani chess visual" />
 </p>
 
@@ -20,10 +24,6 @@
 
 <p align="center">
 <img src="https://www.gitskins.com/api/section/social?username=daniele-casciani&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F52008420%3Fv%3D4&v=showcase-social-6" alt="Daniele Casciani social visual" />
-</p>
-
-<p align="center">
-<img src="./assets/about.svg" alt="About Daniele Casciani" />
 </p>
 
 <p align="center">
