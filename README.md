@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/danielecasciani/"><img src="./assets/hero.svg" alt="Daniele Casciani" /></a>
+<img src="./assets/hero-top.svg" alt="top" width="100.0000%" align="top" /><br/><a href="https://www.linkedin.com/in/danielecasciani/"><img src="./assets/hero-pill-linkedin.svg" alt="pill-linkedin" width="26.1628%" align="top" /></a><a href="https://github.com/GenoGra"><img src="./assets/hero-pill-genogra.svg" alt="pill-genogra" width="17.3256%" align="top" /></a><img src="./assets/hero-rest.svg" alt="rest" width="56.5116%" align="top" />
 </p>
 
 <p align="center">
